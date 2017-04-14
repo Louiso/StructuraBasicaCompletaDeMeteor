@@ -1,0 +1,8 @@
+// contendrá todos los estilos globales predeterminados para su proyecto,
+ // al igual que los elementos HTML utilizados habitualmente
+ html {
+     box-sizing: border-box;
+ }
+ *, *::before, *::after {
+     box-sizing: inherit;
+ }
